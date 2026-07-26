@@ -1,0 +1,19 @@
+# Python cache & virtualenv
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+
+# IDE / System
+.vscode/
+.idea/
+.DS_Store
+
+# Data & Models (keep sample test data)
+data/raw/
+data/processed/
+*.pkl
+*.db

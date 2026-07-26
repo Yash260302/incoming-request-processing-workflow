@@ -1,0 +1,10 @@
+datasets
+pandas
+scikit-learn
+transformers
+huggingface_hub
+streamlit
+python-dotenv
+lightgbm
+xgboost
+tabulate
